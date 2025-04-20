@@ -25,9 +25,13 @@ The project was developed using **Code::Blocks** IDE.
 
 ### ▶️ How to Compile & Run
 
+#### 💻 Using Code::Blocks:
+
+1. Open `Student Directory.cbp` in Code::Blocks  
+2. Click **Build and Run**
+
 #### 🖥 Using Terminal (Linux/macOS/WSL):
+
 ```bash
 gcc main.c -o student_directory
 ./student_directory
-
- 
