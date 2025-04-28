@@ -12,7 +12,7 @@ The project was developed using **Code::Blocks** IDE.
 - 🔍 Search for students by ID or name  
 - 📃 Display all student records  
 - ❌ Delete a student record  
-- 💾 File handling support (optional)
+
 
 ---
 
